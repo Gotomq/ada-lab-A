@@ -1,7 +1,7 @@
 # ada-lab-A
 Para comenzar usar:
-
-```npm i
+```
+npm i
 npm start
 ```
 
