@@ -1,0 +1,16 @@
+{
+  "name": "ada-classes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ada-lab-1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ada-lab-1.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0"
+  }
+}
