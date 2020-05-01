@@ -5,7 +5,8 @@ npm i
 npm start
 ```
 
-## [Lab 01](/ada-lab-1.js)
+## Labs
+### [Lab 01](/ada-lab-1.js)
 
 Node info:
 ```
