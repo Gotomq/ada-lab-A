@@ -5,7 +5,7 @@ npm i
 npm start
 ```
 
-[Contribution guidelines for this project](docs/CONTRIBUTING.md)
+[Contribution guidelines for this project](/ada-lab-1.js)
 
 Node info:
 ```
