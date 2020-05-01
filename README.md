@@ -1,4 +1,4 @@
-# ada-lab-A
+# ADA Lab A
 To get started:
 ```
 npm i
