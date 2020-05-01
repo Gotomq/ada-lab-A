@@ -186,13 +186,13 @@ testSort('insertSortDebug', isSorted, 1000);
 testSort('bubbleSortDebug', isSorted, 1000);
 
 
-// console.log('100K-length arrays'.black.bgWhite.bold);
-// console.log('====== testing time ...'.blue.bgWhite.bold);
-// testSort('insertSortTime', isSorted, 100000);
-// testSort('bubbleSortTime', isSorted, 100000);
-// console.log('====== testing memory, assignations ...'.blue.bgWhite.bold);
-// testSort('insertSortDebug', isSorted, 100000);
-// testSort('bubbleSortDebug', isSorted, 100000);
+console.log('100K-length arrays'.black.bgWhite.bold);
+console.log('====== testing time ...'.blue.bgWhite.bold);
+testSort('insertSortTime', isSorted, 100000);
+testSort('bubbleSortTime', isSorted, 100000);
+console.log('====== testing memory, assignations ...'.blue.bgWhite.bold);
+testSort('insertSortDebug', isSorted, 100000);
+testSort('bubbleSortDebug', isSorted, 100000);
 
 // console.log('1M-length arrays'.black.bgWhite.bold);
 // console.log('====== testing time ...'.blue.bgWhite.bold);
