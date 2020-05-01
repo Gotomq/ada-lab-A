@@ -1,3 +1,8 @@
 # ada-lab-A
-npm i
+Para comenzar usar:
+
+```npm i
 npm start
+```
+
+
