@@ -1,5 +1,5 @@
 # ada-lab-A
-Para comenzar usar:
+To get started:
 ```
 npm i
 npm start
