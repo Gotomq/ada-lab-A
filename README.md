@@ -5,6 +5,8 @@ npm i
 npm start
 ```
 
+[Contribution guidelines for this project](docs/CONTRIBUTING.md)
+
 Node info:
 ```
 node --version
