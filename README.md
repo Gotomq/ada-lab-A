@@ -10,6 +10,7 @@ npm start
 ### Lab 02
 ### * [Lab 02 reversed](/ada-lab-2-reversed.js)
 ### * [Lab 02 random](/ada-lab-2-random.js)
+### * [Lab 02 sorted](/ada-lab-2-ordered.js)
 
 Node info:
 ```
