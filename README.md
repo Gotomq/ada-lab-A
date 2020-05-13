@@ -8,7 +8,7 @@ npm start
 ## Labs
 ### [Lab 01](/ada-lab-1.js)
 ### Lab 02
-### [-Lab 02 reversed](/ada-lab-2-reversed.js)
+### * [Lab 02 reversed](/ada-lab-2-reversed.js)
 
 Node info:
 ```
