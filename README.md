@@ -3,9 +3,10 @@
 ## Labs
 ### [Lab 01](/ada-lab-1.js)
 ### Lab 02
-### * [Lab 02 reversed](/ada-lab-2-reversed.js)
-### * [Lab 02 random](/ada-lab-2-random.js)
-### * [Lab 02 sorted](/ada-lab-2-ordered.js)
+### * [02 reversed](/ada-lab-2-reversed.js)
+### * [02 random](/ada-lab-2-random.js)
+### * [02 sorted](/ada-lab-2-ordered.js)
+### [Lab 03](/compare-prac3.py)
 
 Node info:
 ```
