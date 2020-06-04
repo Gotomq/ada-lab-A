@@ -1,3 +1,7 @@
+###############################################
+#          IVAN RAFAEL BUENDIA GUTIERREZ
+###############################################
+
 import math
 #implementacion lineal
 def seg(routes, num):
