@@ -48,6 +48,7 @@ segdv([4, -5, 4, -3, 4, 4, -4, 4, -5])
 segdv([-3, -4, -5])
 segdv([-1, 6])
 
+#Lineal
 n = int(input())
 lst = [None] * n
 for i in range(n):
