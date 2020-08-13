@@ -10,7 +10,7 @@
 
 * xd
 En [file](/ada-lab-2-ordered.js)
-En [UI]()
+En [UI](/ada-lab-A)
 
 Node info:
 ```
